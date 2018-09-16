@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedMartTask</string>
+    <string name="product">product</string>
+    <string name="price">price</string>
+    <string name="ProdName">prodName</string>
+    <string name="prodDesc">prodDesc</string>
+</resources>
